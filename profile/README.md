@@ -11,4 +11,4 @@ A real-time streaming and batch ETL pipeline that ingests market data,
 processes it for analytics, and delivers alerts and dashboards.
 
 Tech stack:
-Redpanda, Airflow, Snowflake, dbt, GCP, AWS
+Kafka, Airflow, Snowflake, dbt, GCP, AWS
